@@ -1,0 +1,33 @@
+.sign2{
+    
+    top:50%;
+    left: 25%;	
+    position:absolute;
+    width:700px;
+    height:400px;
+    margin:-274px 0px 0px 0px;
+}
+.name{
+width: 70%;
+float: right;
+height: 24px;
+margin-bottom: 25px;
+}
+.email3{
+    width: 70%;
+    float: right;
+    height: 24px;
+    margin-bottom: 25px;
+    }
+.password3{
+        width: 70%;
+        float: right;
+        height: 24px;
+        margin-bottom: 25px;
+        }
+.password4{
+            width: 70%;
+            float: right;
+            height: 24px;
+            margin-bottom: 25px;
+            }

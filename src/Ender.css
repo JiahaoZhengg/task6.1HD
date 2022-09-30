@@ -1,0 +1,32 @@
+.input {
+    width: 550px;
+    height: 36px;
+    float: left;
+    margin-left: 300px;
+}
+
+.deakin {
+    float: left;
+    margin: auto;
+}
+
+.email {
+    height: 36px;
+    width: 650px;
+    float: right;
+
+
+
+}
+
+.sub {
+    height: 36px;
+    float: right;
+    margin-right: 150px;
+}
+
+.header {
+    background-color: rgb(235, 230, 230);
+    text-align: center;
+    height: 36px;
+}

@@ -1,0 +1,28 @@
+.tutorial {
+    text-align: left;
+}
+
+.tutorial .videos {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.tutorial .videos .videoItem {
+    width: 100%;
+}
+
+.tutorial .videos .videoData span{
+    margin-right: 20px;    
+}
+
+.tutorial .videosPre {
+    width: 200px;
+    height: 360px;
+    overflow: hidden;
+    position: fixed;
+    top: 38px;
+    left: 40px;
+}
+.tutorial .videosPre .preItem{
+    width: 100%;
+}

@@ -1,0 +1,17 @@
+.t1{ display: flex;
+}
+.t5{ display: flex;
+}
+.Title{
+    height: 28px;
+    width: 100%;
+}
+.abstract{
+width: 100%;
+height: 75px;
+
+}
+.text{
+    width: 100%;
+    height: 300px;
+    }

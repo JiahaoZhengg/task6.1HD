@@ -1,0 +1,26 @@
+.my-home {
+    text-align: left;
+}
+
+.my-home .userInfo {
+    width: 70%;
+    background-color: #ccc;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.my-home .myMessage {
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.my-home .myMessage .messageItem {
+    background-color: #ccc;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.my-home .myMessage .messageItem span{
+    margin-right: 20px;
+}

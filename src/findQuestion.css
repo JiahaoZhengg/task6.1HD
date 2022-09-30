@@ -1,0 +1,29 @@
+.find-question{
+    text-align: left;
+}
+
+.find-question .find-box{
+    margin: 20px 0 0 20px;
+}
+.find-question .find-box input{
+    width: 300px;
+}
+.find-question .find-box button{
+    margin-left: 10px;
+}
+
+.find-question .questions-box{
+    margin-top: 30px;
+    margin-left: 20px;
+    padding-bottom: 200px;
+}
+.find-question .questions-box .question-item{
+    width: 60%;
+    background-color: rgb(235, 230, 230);
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.find-question .questions-box .question-item h3{
+    text-align: center;
+}
