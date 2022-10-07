@@ -1,0 +1,15 @@
+.all {
+    text-align: center;
+}
+.free{
+    background-color:antiquewhite;
+    width: 220px;
+    height: 250px;
+    margin: 0 auto;
+}
+.premium{
+    background-color:rgb(60, 171, 199);
+    width: 220px;
+    height: 250px;
+    margin: 0 auto;
+}
